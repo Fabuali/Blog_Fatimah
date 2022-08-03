@@ -1,0 +1,11 @@
+---
+title: "Fatimah Abuali"
+description: |
+  Some additional details about the blog
+---
+
+```{r setup, include=FALSE}
+
+```
+
+![](images/images-02.jpg)knitr::opts_chunk\$set(echo = FALSE)

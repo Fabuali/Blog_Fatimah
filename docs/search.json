@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Fatimah Abuali",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\nknitr::opts_chunk$set(echo =\r\nFALSE)\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-03T16:08:46+03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My R ",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-03T15:41:15+03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
